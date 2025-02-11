@@ -7,4 +7,4 @@ How to find the operating system in Windows using Command Prompt run command -->
 64-bit is 64-Bit or else it is 32-Bit.
 After downloading the vault create a folder named binaries ( so it givesa view of all the binaries at a centralized place ). create the environment variable using the path of the vault binary
 After adding the environment Variable. open the command prompt and run vault it should show some commands related to vault.
-![image alt](https://github.com/NamburiNikilesh/Hashicorp-Vault/blob/4acd80fcb0f5d320e3efe03bd5b376ae2fd71f4e/Vault%20Installation.JPG)
+![image alt](https://github.com/NamburiNikilesh/Hashicorp-Vault/blob/4acd80fcb0f5d320e3efe03bd5b376ae2fd71f4e/Vault%20Installation.JPG?raw=true)
