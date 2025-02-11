@@ -2,4 +2,6 @@ Hashicorp Vault open source can be installed on Windows, Linux, and Mac.
 I'll be using the Windows Operating System. so I'll guide you on how to install Hashicorp on the Windows operating system.
 Navigate to Hashicorp Vault website and download the latest version of Hashicorp Vault.
 Link --> https://developer.hashicorp.com/vault/install
-choose 
+If you are operating system is 32-bit use Windows Binary download 386 or if your operating system is 64-bit use AMD 64.
+How to find the operating system in Windows using Command Prompt run command --> wmic os get osarchitecture in command prompt and if its OSArchitecture
+64-bit is 64-Bit or else it is 32-Bit.
